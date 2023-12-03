@@ -1,0 +1,9 @@
+{
+	"name": "tokyodatafactorypp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2beceb1e-bcf1-4c5d-abe8-9d10d87a7bf2",
+		"tenantId": "6f83fffd-9c57-4397-8f3b-082e452a02a5"
+	}
+}
