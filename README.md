@@ -15,5 +15,7 @@ Learning outcomes:
 
 Transformation code: Code_for_simple_transformation_on_databricks.ipynb
 
+Data is in: Azure_end_2_end_data_engineer_project/CSV
+
 I used Power BI's free version that is why I was not able to connect it directly with Azure Synapse Analytics,
 so I simply loaded the transformed CSV files and visualized them.
