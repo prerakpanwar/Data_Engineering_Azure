@@ -1,5 +1,6 @@
 # Data_Engineering_Azure
-![image](https://github.com/prerakpanwar/Data_Engineering_Azure/assets/40028120/25e782f8-5b6d-4dc1-9927-aac492dcf394)
+![image](https://github.com/prerakpanwar/Data_Engineering_Azure/assets/40028120/529f6702-a99e-4650-af45-5cb212514b36)
+
 
 
 Masters Project + Presentation for Big Data Analytics Subject.
