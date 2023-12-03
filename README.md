@@ -11,3 +11,5 @@ Learning outcomes:
 - Data Transformation (Data Bricks)
 - Data Analytics and visualizations (Synapse Analytics and PowerBI)
 - Azure services like : App registrations, Cost Management + Billing, Resource Groups
+
+Transformation code: Code_for_simple_transformation_on_databricks.ipynb
