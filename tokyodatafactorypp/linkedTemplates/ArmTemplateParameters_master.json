@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "tokyodatafactorypp"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AthletesHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/prerakpanwar/Data_Engineering_Azure/main/Azure_end_2_end_data_engineer_project/CSV/Athletes.csv"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://tokyoanalyticsstoragepp.dfs.core.windows.net/"
+		},
+		"CoachesHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/prerakpanwar/Data_Engineering_Azure/main/Azure_end_2_end_data_engineer_project/CSV/Coaches.csv"
+		},
+		"EntriesGenderHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/prerakpanwar/Data_Engineering_Azure/main/Azure_end_2_end_data_engineer_project/CSV/EntriesGender.csv"
+		},
+		"MedalsHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/prerakpanwar/Data_Engineering_Azure/main/Azure_end_2_end_data_engineer_project/CSV/Medals.csv"
+		},
+		"TeamsHttp_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/prerakpanwar/Data_Engineering_Azure/main/Azure_end_2_end_data_engineer_project/CSV/Teams.csv"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
