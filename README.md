@@ -3,7 +3,7 @@
 
 
 
-Masters Project + Presentation for Big Data Analytics Subject.
+Masters Project + Presentation for Big Data Analytics Subject (CIS602).
 The Project Architecture is shown in the above picture.
 
 Learning outcomes:
@@ -14,3 +14,6 @@ Learning outcomes:
 - Azure services like : App registrations, Cost Management + Billing, Resource Groups
 
 Transformation code: Code_for_simple_transformation_on_databricks.ipynb
+
+I used Power BI's free version that is why I was not able to connect it directly with Azure Synapse Analytics,
+so I simply loaded the transformed CSV files and visualized them.
