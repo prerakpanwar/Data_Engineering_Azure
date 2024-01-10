@@ -9,7 +9,7 @@ The Project Architecture is shown in the above picture.
 Learning outcomes:
 - Choosing a Storage account as per the requirement (Container for Blob Storage) (Data Lake Gen 2). 
 - Building a pipeline (Using Data Factories).
-- Data Transformation (Data Bricks)
+- Data Transformation (Databricks)
 - Data Analytics and visualizations (Synapse Analytics and PowerBI)
 - Azure services like : App registrations, Cost Management + Billing, Resource Groups
 
