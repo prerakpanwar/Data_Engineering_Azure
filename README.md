@@ -3,7 +3,6 @@
 
 
 
-Masters Project + Presentation for Big Data Analytics Subject (CIS602).
 The Project Architecture is shown in the above picture.
 
 Learning outcomes:
